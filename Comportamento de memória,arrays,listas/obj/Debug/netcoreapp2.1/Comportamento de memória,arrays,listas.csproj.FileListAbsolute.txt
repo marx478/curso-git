@@ -1,0 +1,11 @@
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\bin\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.deps.json
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\bin\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.runtimeconfig.json
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\bin\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.runtimeconfig.dev.json
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\bin\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.dll
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\bin\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.pdb
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\obj\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.csprojAssemblyReference.cache
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\obj\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.csproj.CoreCompileInputs.cache
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\obj\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.AssemblyInfoInputs.cache
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\obj\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.AssemblyInfo.cs
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\obj\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.dll
+C:\Users\marxl\source\repos\Comportamento de memória,arrays,listas\Comportamento de memória,arrays,listas\obj\Debug\netcoreapp2.1\Comportamento de memória,arrays,listas.pdb
